@@ -1,7 +1,7 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="HIVE" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1650268453284" LINK="Big%20DATA.mm"><hook NAME="MapStyle" background="#2e3440" zoom="0.621">
-    <properties followedTemplateLocation="template:/dark_nord_template.mm" show_icon_for_attributes="true" fit_to_viewport="false" show_note_icons="true" followedMapLastTime="1647687442000" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" associatedTemplateLocation="template:/dark_nord_template.mm"/>
+<node TEXT="HIVE" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1090958577" CREATED="1409300609620" MODIFIED="1650643307487" LINK="Big%20DATA.mm"><hook NAME="MapStyle" background="#2e3440" zoom="0.621">
+    <properties followedTemplateLocation="template:/dark_nord_template.mm" fit_to_viewport="false" show_icon_for_attributes="true" show_note_icons="true" followedMapLastTime="1647687442000" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" associatedTemplateLocation="template:/dark_nord_template.mm"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -100,8 +100,7 @@
       <b>set hive.execution.engine</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node TEXT="MR(MAP REDUCE)" ID="ID_1317682151" CREATED="1650266933467" MODIFIED="1650267009083" HGAP_QUANTITY="-462.24999 pt" VSHIFT_QUANTITY="153.75 pt"/>
 <node TEXT="tez" ID="ID_438646421" CREATED="1650266935859" MODIFIED="1650266997993" HGAP_QUANTITY="-366.24999 pt" VSHIFT_QUANTITY="36.75 pt"/>
 <node TEXT="Spark" ID="ID_109228258" CREATED="1650266936619" MODIFIED="1650267006503" HGAP_QUANTITY="-388.74999 pt" VSHIFT_QUANTITY="48.75 pt"/>
@@ -115,7 +114,7 @@
 </node>
 </node>
 </node>
-<node TEXT="FIle formats" POSITION="right" ID="ID_1583660463" CREATED="1649913548218" MODIFIED="1650266672897" HGAP_QUANTITY="187.24999 pt" VSHIFT_QUANTITY="-86.25 pt"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
+<node TEXT="FIle formats" POSITION="right" ID="ID_1583660463" CREATED="1649913548218" MODIFIED="1650643307486" HGAP_QUANTITY="157.24999 pt" VSHIFT_QUANTITY="-122.25 pt"><richcontent TYPE="NOTE" CONTENT-TYPE="xml/">
 <html>
   <head>
     
